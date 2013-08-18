@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>0.0.2.3</Version>
+  <OpenProjectVersion>0.0.2.3</OpenProjectVersion>
+  <Name>FishJoy2</Name>
+  <ProjectDir>C:\Users\dc\Desktop\FishJoy2</ProjectDir>
+  <SceneJson>FishJoy2.json</SceneJson>
+  <Resources>C:\Users\dc\Desktop\FishJoy2\Resources</Resources>
+  <JsonFolder>C:\Users\dc\Desktop\FishJoy2\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <JSFileList />
+  <DefaultUI_JSList />
+</SceneProject>

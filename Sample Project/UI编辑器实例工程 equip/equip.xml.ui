@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1</Version>
+  <Name>equip</Name>
+  <ProjectDir>E:\GitHub\cocos2d-DrawRoad\Sample Project\UI编辑器实例工程 equip</ProjectDir>
+  <SceneJson>equip.json</SceneJson>
+  <Resources>E:\GitHub\cocos2d-DrawRoad\Sample Project\UI编辑器实例工程 equip\Resources</Resources>
+  <JsonFolder>E:\GitHub\cocos2d-DrawRoad\Sample Project\UI编辑器实例工程 equip\Json</JsonFolder>
+  <JsonList>
+    <string>equip_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>equip_1.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+</UIProject>
